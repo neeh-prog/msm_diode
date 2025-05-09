@@ -21,8 +21,5 @@ This project documents the fabrication and basic understanding of a Metal-Semico
 - Extracting Schottky barrier height and ideality factor
 - Exploring other metal contacts (e.g., Au, Pt)
   
- IMAGES
- 
 
-
-Feel free to fork or open issues if you're working on something similar!
+ Feel free to fork or open issues if you're working on something similar!
