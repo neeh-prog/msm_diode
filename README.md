@@ -1,4 +1,4 @@
-# MSM Diode Fabrication using ZnO on Silicon
+# MSM Diode Fabrication and Characterisation using ZnO on Silicon
 
 This project documents the fabrication and basic understanding of a Metal-Semiconductor-Metal (MSM) diode using a Silicon substrate, ZnO thin film, and Aluminium contacts. The work was carried out in our college semiconductor fabrication lab.
 
@@ -6,6 +6,7 @@ This project documents the fabrication and basic understanding of a Metal-Semico
 1. **Wafer Cleaning** – Standard cleaning of P-type Silicon wafer.
 2. **ZnO Deposition** – Deposited a thin layer of ZnO using [RF SPUTTERING].
 3. **Aluminium Contact Deposition** – Patterned and deposited Aluminium to form MSM structure.
+4. **Characterisation** - Analysed the device by using differnt power and different voltage.
 
  What I Learned
 - MSM diodes form **two back-to-back Schottky junctions**, unlike PN photodiodes.
